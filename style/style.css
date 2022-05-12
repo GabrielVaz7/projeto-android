@@ -46,9 +46,9 @@ header > h1 {
 }
 header > p{
     color: var(--cor1);
-    margin: 20px;
+    margin: 0px;
     font-family: var(--fonte-padrao);
-    padding: 2px;
+    padding: 22px;
     
 }
 
